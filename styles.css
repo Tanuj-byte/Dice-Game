@@ -1,0 +1,24 @@
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  font-weight: bolder;
+  font-size: 4rem;
+  text-align: center;
+}
+body{
+  background-color: #0EEFE3;
+}
+h2{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+.player1{
+  float: left;
+  margin-left: 300px;
+}
+.player2{
+    float: right;
+  margin-right: 300px;
+}
